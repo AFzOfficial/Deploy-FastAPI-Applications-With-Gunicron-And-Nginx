@@ -2,7 +2,7 @@
 
 - #### May 8, 2023
 ‍‍‍
-- ### In this tutorial, we used the root user to deploy. Our suggestion is to use a non-root user for security reasons.
+- #### In this tutorial, we used the root user to deploy. Our suggestion is to use a non-root user for security reasons.
 
 
 <br><br>
@@ -109,8 +109,9 @@ pip install gunicorn
 <br>
 
 
-### Create Systemd Service
+## Create Systemd Service
 
+<b>
 
 #### Add configuration file for Gunicorn
 
