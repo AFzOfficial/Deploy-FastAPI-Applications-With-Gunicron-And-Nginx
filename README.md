@@ -257,7 +257,7 @@ nano /etc/nginx/sites-available/fastapi_project
 ```lang=bash
 server {
 
-	    client_max_body_size 64M;
+	client_max_body_size 64M;
 
         listen 443 ssl;
         listen [::]:443 ssl;
